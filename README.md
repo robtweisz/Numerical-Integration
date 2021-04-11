@@ -5,3 +5,6 @@
 ![](PDF/page3.png)
 ![](PDF/page4.png)
 ![](PDF/page5.png)
+![](PDF/Numerical%20Integration-Composite%20Simpson's%20Rule..pdf
+)
+
