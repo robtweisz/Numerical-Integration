@@ -1,4 +1,4 @@
-## An example of numerical integration using Composite Simpson's Rule and MATLAB.
+## An example of numerical integration using composite Simpson's rule and MATLAB.
 
 ![](PDF/page1.png)
 ![](PDF/page2.png)
